@@ -1,0 +1,2 @@
+# blessing_of_the_god_translation_project
+blessing_of_the_god_translation_project
