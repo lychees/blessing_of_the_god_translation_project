@@ -1,2 +1,1 @@
-# blessing_of_the_god_translation_project
-blessing_of_the_god_translation_project
+ようこそ，こちらは 神の祝福 翻訳プロジェクトです。## 作品说明神的祝福是 shirleycrow 的第三（？）部作品。- [【原创游戏发布】神的赐福](http://shirleycrow.lofter.com/post/1d8219d8_e0fa8c8)## 工具选型## 用语说明
